@@ -1,5 +1,15 @@
+# Emo-Hub: Human Emotion Automatic Recognition System
+## Poster
+
+
+
+## PC
 Run main.py on PC;
 
-Install Raspberry Pi Camera on Raspberry Pi，then run appCam.py;
+## Raspberry Pi
+Install Raspberry Pi Camera on Raspberry Pi;
 
-run Advanced_Actuators on WeMos.
+Then, run appCam.py;
+
+## WeMos 
+Run Advanced_Actuators on WeMos.
